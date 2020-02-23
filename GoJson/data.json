@@ -16,7 +16,7 @@
       "ibu": "aini yuzaima yaacob",
       "bapa": "samsurizan bin taib",
       "kelas": "1D",
-      "homeroom": "papa syahrul",
+      "homeroom": "Papa Syahrul",
       "tempat tinggal": "bahagia court temerloh",
       "phone": "0139862497/0199822497"
     },
@@ -93,7 +93,7 @@
       "nama anak": "Siti Nur Batrisyia bt. Khairudin",
       "ibu": "",
       "bapa": "Siti Hajar bt. Zambros/Khairudin b. Ibrahim",
-      "kelas": "1 D",
+      "kelas": "1D",
       "homeroom": "Papa Syahrul",
       "tempat tinggal": "Balok Makmur, Kuantan.",
       "phone": "0194764675/0132854675"
@@ -103,8 +103,8 @@
       "nama anak": "Ahmad Uzayry",
       "ibu": "",
       "bapa": "Arifah Dalilah/ Ahmad Taipour",
-      "kelas": "1 E",
-      "homeroom": "Papa Siddiq",
+      "kelas": "1E",
+      "homeroom": "Abi Siddiq",
       "tempat tinggal": "Alam Budiman, Shah Alam.",
       "phone": "0196495513/0132266596"
     },
@@ -138,46 +138,46 @@
     {
       "id": "15",
       "nama anak": "NASRIN DAYANA BT MOHD NASAR",
-      "ibu": "",
-      "bapa": "SUE/NASAR",
+      "ibu": "SUE",
+      "bapa": "NASAR",
       "tempat tinggal": "BANGI, SELANGOR",
       "phone": "0142247428/0193615124"
     },
     {
       "id": "16",
       "nama anak": "Muhammad Izuddin b Arif",
-      "ibu": "",
-      "bapa": "Nurleeta/Arif",
+      "ibu": "Nurleeta",
+      "bapa": "Arif",
       "kelas": "1C",
-      "homeroom": "Mummy Muna",
+      "homeroom": "Mama Muna",
       "tempat tinggal": "Bdr Sri Damansara",
       "phone": "019 2257239"
     },
     {
       "id": "17",
-      "nama anak": "Iman Ammar Naufal b.  Zulkahar",
-      "ibu": "",
-      "bapa": "ila/zul",
-      "kelas": "1 D",
-      "homeroom": "Abi siddiq",
+      "nama anak": "Iman Ammar Naufal b. Zulkahar",
+      "ibu": "ila",
+      "bapa": "zul",
+      "kelas": "1D",
+      "homeroom": "Abi Siddiq",
       "tempat tinggal": "Muadzam Shah, Pahang",
       "phone": "0199323262"
     },
     {
       "id": "18",
       "nama anak": "Wan nur nabilla",
-      "ibu": "",
-      "bapa": "Noor marziana/muhamad hazani",
+      "ibu": "Noor marziana",
+      "bapa": "Muhamad Hazani",
       "kelas": "1E",
-      "homeroom": "Papa syahrul",
+      "homeroom": "Papa Syahrul",
       "tempat tinggal": "Permatang badak maju,kuantan.",
       "phone": "0124372546/0175849986"
     },
     {
       "id": "19",
       "nama anak": "Izzharith Zafran",
-      "ibu": "",
-      "bapa": "Hazila binti Fauzi/Muhammad Zulkarnain",
+      "ibu": "Hazila binti Fauzi",
+      "bapa": "Muhammad Zulkarnain",
       "kelas": "1D",
       "homeroom": "Mummy Basirah",
       "tempat tinggal": "Taman Langat Murni,Bukit Changgang Selangor",
@@ -185,11 +185,11 @@
     },
     {
       "id": "20",
-      "nama anak": "siti nur farhana",
+      "nama anak": "Siti Nur Farhana",
       "bapa": "saikh mohd hanafiah.",
       "ibu": "latipah bt.sahak",
       "kelas": "1C",
-      "homeroom": "Abi siddiq.",
+      "homeroom": "Abi Siddiq",
       "tempat tinggal": "kuantan",
       "phone": "0109311884"
     },
@@ -209,7 +209,7 @@
       "ibu": "zaidah",
       "bapa": "Mohammad",
       "kelas": "1A",
-      "homeroom": "mama sorraya",
+      "homeroom": "Mama Sorayya",
       "tempat tinggal": "Terengganu",
       "phone": "013-2181332/016-2367129"
     },
@@ -218,7 +218,7 @@
       "nama anak": "ADIB QUSYAIRI BT MOHAMAD LEND ROZAIMIN",
       "kelas": "1A",
       "ibu": "NORLYDIAWATI BT ABDULLAH",
-      "homeroom": "MOMMY ATIQ",
+      "homeroom": "Mama Atiq",
       "tempat tinggal": "KUALA LIPIS",
       "phone": "01126005312"
     },
@@ -237,7 +237,7 @@
       "nama anak": "Mohamad Imtiyyaz bin Mohamad Amir Hamzah",
       "ibu": "",
       "bapa": "Ruzita / Amir",
-      "kelas": "1 B",
+      "kelas": "1B",
       "homeroom": "Ibu Dzaima",
       "tempat tinggal": "Jerantut",
       "phone": "0193685671 / 0193991549"
@@ -248,7 +248,7 @@
       "ibu": "",
       "bapa": "azwa",
       "kelas": "1D",
-      "homeroom": "papa vern",
+      "homeroom": "Papa Vern",
       "tempat tinggal": "kuantan",
       "phone": "0178225484"
     },
@@ -257,9 +257,9 @@
       "nama anak": "Tg nur nadhirah bt tg azmi",
       "ibu": "yuslina",
       "bapa": "tg azmi",
-      "kelas": "1c",
+      "kelas": "1C",
       "tempat tinggal": "Terengganu",
-      "homeroom": "papa siddiq",
+      "homeroom": "Abi Siddiq",
       "phone": "0129451231"
     },
     {
@@ -278,7 +278,7 @@
       "ibu": "",
       "bapa": "Emran/Tuty",
       "kelas": "1A",
-      "homeroom": "papa vern",
+      "homeroom": "Papa Vern",
       "tempat tinggal": "kota damansara selangor",
       "phone": "0126301725/0172072132                                                                                                                                   "
     },
@@ -287,7 +287,7 @@
       "nama anak": "Kaisah Kamaliya",
       "ibu": "",
       "bapa": "Nor azlina/Nadzrul",
-      "kelas": "1 A",
+      "kelas": "1A",
       "homeroom": "Papa Vern",
       "tempat tinggal": "Taman Equine,Seri Kembangan Selangor",
       "phone": "0136732817/ 0136732917"
@@ -295,27 +295,27 @@
     {
       "id": "31",
       "nama anak": "MIG",
-      "ibu": "",
-      "bapa": "JAY / JAMAL",
-      "kelas": "1 A",
-      "homeroom": "MAMA MUNA",
+      "ibu": "JAY",
+      "bapa": "JAMAL",
+      "kelas": "1A",
+      "homeroom": "Mama Muna",
       "tempat tinggal": "MERU, KLANG",
       "phone": "011-26268673 /0162532587"
     },
     {
       "id": "32",
       "nama anak": "muhd danish bin zailan",
-      "ibu": "",
-      "bapa": "nadia/zailan",
-      "kelas": "1 D",
-      "homeroom": "mama sorayya",
+      "ibu": "nadia",
+      "bapa": "zailan",
+      "kelas": "1D",
+      "homeroom": "Mama Sorayya",
       "tempat tinggal": "shah alam",
       "phone": "0193 3451440"
     },
     {
       "id": "33",
       "nama anak": "NUR HANANIA FAQEHAH BINTI HAZRIL AZMIN",
-      "ibu": "Pn asma",
+      "ibu": "Pn Asma",
       "bapa": "",
       "kelas": "1A",
       "homeroom": "Papa Vern",
@@ -336,15 +336,15 @@
       "id": "35",
       "nama anak": "nur anisa Binti azhar",
       "kelas": "1D",
-      "homeroom": "mama sorayya",
+      "homeroom": "Mama Sorayya",
       "tempat tinggal": "jerantut",
       "ibu": "Hasueningsari"
     },
     {
       "id": "36",
       "nama anak": "Muhammad Ikhwan",
-      "ibu": "",
-      "bapa": "w.isah/abd hakim",
+      "ibu": "w.isah",
+      "bapa": "abd hakim",
       "kelas": "1E",
       "homeroom": "Mama Muna",
       "tempat tinggal": "Jerantut",
@@ -376,7 +376,7 @@
       "ibu": "",
       "bapa": "Rahumathnisha Mohamad Ibraheem/ Muhammad",
       "kelas": "1B",
-      "homeroom": "Papa Siddiq",
+      "homeroom": "Abi Siddiq",
       "tempat tinggal": "Ampang",
       "phone": "0162345645/0162188645"
     },
@@ -396,7 +396,7 @@
       "ibu": "",
       "bapa": "Fauziah/Abdul Kadir",
       "kelas": "tak pasti(kata ank, , 'kelas' ibnu khaldun)",
-      "homeroom": "Ummi Basirah",
+      "homeroom": "Mummy Basirah",
       "tempat tinggal": "Kuala Rompin, Phg",
       "phone": "013-9226182/0139306182"
     },
@@ -413,10 +413,10 @@
     {
       "id": "43",
       "nama anak": "Muhammad Rayyan Nawfal b Mohd Idham",
-      "ibu": "",
-      "bapa": "Mohd Idham /Norfiza",
+      "ibu": "Norfiza",
+      "bapa": "Mohd Idham",
       "kelas": "1D",
-      "homeroom": "mama muna",
+      "homeroom": "Mama Muna",
       "tempat tinggal": "Jerantut,Pahang",
       "phone": "019-3452641/0139693736"
     },
@@ -425,7 +425,7 @@
       "nama anak": "woon jin hong",
       "ibu": "miko (yoyoh ijan)",
       "kelas": "1A",
-      "homeroom": "mama atiq",
+      "homeroom": "Mama Atiq",
       "tempat tinggal": "hulu langat selangor",
       "phone": "0173051828"
     },
@@ -435,7 +435,7 @@
       "ibu": "",
       "bapa": "Norihan /Annor Rusli",
       "kelas": "1B",
-      "homeroom": "papa sidik",
+      "homeroom": "Abi Siddiq",
       "tempat tinggal": "Karak,pahang.",
       "phone": "0148195762"
     },
@@ -445,7 +445,7 @@
       "ibu": "Aliza",
       "bapa": "hairulnizad",
       "kelas": "1D",
-      "homeroom": "ibudzamia",
+      "homeroom": "Ibu Dzaima",
       "tempat tinggal": "port klang",
       "phone": "0197746190"
     },
@@ -484,7 +484,7 @@
       "nama anak": "Wan Zulfa Husna binti Wan Zulkifli",
       "ibu": "",
       "bapa": "Wan Zul/Fairuz",
-      "kelas": "1 D",
+      "kelas": "1D",
       "homeroom": "Papa Syahrul",
       "tempat tinggal": "Alam Budiman, Shah Alam",
       "phone": "0197535642/0193799747"
@@ -525,17 +525,17 @@
       "kelas": "1B",
       "ibu": "",
       "bapa": "Sauma /Anzali",
-      "homeroom": "Ibu Dzamia",
+      "homeroom": "Ibu Dzaima",
       "tempat tinggal": "Jln Temerloh-Maran",
       "phone": "012 2765570"
     },
     {
       "id": "55",
       "nama anak": "Akalili Hanani",
-      "ibu": "",
-      "bapa": "Aminah/Hilmi Haniz",
+      "ibu": "Aminah",
+      "bapa": "Hilmi Haniz",
       "kelas": "1B",
-      "homeroom": "Mummy Atiq ",
+      "homeroom": "Mama Atiq ",
       "tempat tinggal": "subang selangor",
       "phone": "0133776608"
     },
@@ -545,7 +545,7 @@
       "kelas": "1D",
       "ibu": "",
       "bapa": "wan masmariani /Ramlan",
-      "homeroom": "mama sorayya",
+      "homeroom": "Mama Sorayya",
       "tempat tinggal": "k.lipis",
       "phone": "0199550922/0199110922"
     },
@@ -555,7 +555,7 @@
       "kelas": "1A",
       "ibu": "",
       "bapa": "Wan norhidayah/Rosli",
-      "homeroom": " umi asma",
+      "homeroom": " Ummi Asma",
       "tempat tinggal": "shah alam",
       "phone": "0133994798 / 0193809962"
     },
@@ -600,7 +600,8 @@
       "phone": "0146577110"
     },
     {
-      "id": "62.Muhammad Zafran Yaqin",
+      "id": "62",
+      "nama anak": "Muhammad Zafran Yaqin",
       "kelas": "1E",
       "ibu": "Noorhayati",
       "bapa": "Mohamed Zubir",
@@ -609,7 +610,8 @@
       "phone": "014 230 8105"
     },
     {
-      "id": "63. Nurainul Batrisyia binti Dzul Helmi",
+      "id": "63",
+      "nama anak": "Nurainul Batrisyia binti Dzul Helmi",
       "kelas": "1E",
       "ibu": "Siti Hanis",
       "bapa": "Dzul Helmi",
@@ -618,7 +620,8 @@
       "phone": "0197262634/0167892635"
     },
     {
-      "id": "64. Mohamad AIMAN Aisyhafie B Mohamad Khairul",
+      "id": "64",
+      "nama anak": "Mohamad AIMAN Aisyhafie B Mohamad Khairul",
       "kelas": "1E",
       "ibu": "Arnie izayu",
       "homeroom": "Mummy Basirah",
@@ -630,7 +633,7 @@
       "nama anak": "Wan Nur Dania Qistina",
       "ibu": "",
       "bapa": "Roliana / Wan Mohd Azli",
-      "kelas": "1 C",
+      "kelas": "1C",
       "homeroom": "Ibu Dzaima",
       "tempat tinggal": "Gombak, Selangor",
       "phone": "019 3342143 / 013 9586478"
@@ -660,7 +663,7 @@
       "nama anak": "Najlaa' Binti Junaidee",
       "ibu": "",
       "bapa": "Fatahiah Bt Mansor / Junaidee B. Jaluddin",
-      "kelas": "1 B",
+      "kelas": "1B",
       "homeroom": "Papa Vern",
       "tempat tinggal": "Lanchang",
       "phone": "01126387575 / 01116347676"
@@ -680,7 +683,7 @@
       "nama anak": "Aniq Iqbal",
       "ibu": "",
       "bapa": "Mohd Farid Bin Mustafa/Azila bt Ahmad",
-      "kelas": "1c",
+      "kelas": "1C",
       "homeroom": "Abi Wazan",
       "tempat tinggal": "Jerantut",
       "phone": "01115191706"
@@ -689,7 +692,7 @@
       "id": "71",
       "nama anak": "Puteri Aina Syahirah bt Ahmad Sham",
       "ibu": "Rosnani bt Ibrahim",
-      "kelas": "1e",
+      "kelas": "1E",
       "homeroom": "Papa Vern",
       "tempat tinggal": "Kuala Lipis",
       "phone": "01117950977"
@@ -697,9 +700,9 @@
     {
       "id": "72",
       "nama anak": "nur ain fatini bt suhaime",
-      "kelas": "1c",
+      "kelas": "1C",
       "dorm": "chempaka 20",
-      "homeroom": "umi asma",
+      "homeroom": "Ummi Asma",
       "tempat tinggal": "cheneras jaya kuala lipis",
       "ibu": "halijah",
       "phone": "0199957994/0199859623"
@@ -709,16 +712,16 @@
       "nama anak": "Dina Khadeejah bt.Ritzzuan",
       "ibu": "",
       "bapa": "Nurulain / Ritzzuan",
-      "kelas": " 1 B",
-      "homeroom": "Umi Asma",
+      "kelas": " 1B",
+      "homeroom": "Ummi Asma",
       "tempat tinggal": "Sentul, KL",
       "phone": "0129321358"
     },
     {
       "id": "74",
       "nama anak": "Dayini Iman",
-      "ibu": "",
-      "bapa": "Effa/mustafa",
+      "ibu": "Effa",
+      "bapa": "Mustafa",
       "kelas": "1D",
       "homeroom": "Mama Muna",
       "tempat tinggal": " Tengkera, Melaka",
@@ -727,11 +730,11 @@
     {
       "id": "75",
       "nama anak": " Muizzuddin b.Mohamad Zain",
-      "ibu": "",
-      "bapa": "Nor Mazni/Mohd Zain",
-      "homeroom": "Umi Asma",
+      "ibu": "Nor Mazni",
+      "bapa": "Mohd Zain",
+      "homeroom": "Ummi Asma",
       "tempat tinggal": "Kuala Lipis",
-      "kelas": "1c",
+      "kelas": "1C",
       "phone": "0102415462"
     },
     {
@@ -758,7 +761,7 @@
       "nama anak": "Muhammad Aqil Anaqi",
       "ibu": "",
       "bapa": "Fazellia (Ellia) / Mohd Syuhada",
-      "kelas": "1 B",
+      "kelas": "1B",
       "homeroom": "Papa Vern",
       "tempat tinggal": "Alam Impian, Shah Alam",
       "phone": "0176319776 / 0192725841"
@@ -779,29 +782,48 @@
       "ibu": "NORAZLINA",
       "bapa": "IKHWAN NIZAR",
       "kelas": "1A",
-      "homeroom": "ABI WAZZAN",
+      "homeroom": "Abi Wazzan",
       "tempat tinggal": "BERA, PAHANG",
       "phone": "0129538625  "
     },
     {
       "id": "81",
       "nama anak": "Divyaah a/p Letchumanna.",
-      "ibu": "",
-      "bapa": "Letchumanan / Sarasvathy",
+      "ibu": "Sarasvathy",
+      "bapa": "Letchumanan",
       "kelas": "1E",
-      "homeroom": "Mama Soraya",
+      "homeroom": "Mama Sorayya",
       "tempat tinggal": "Kelang",
       "phone": "012-6692217 / 011-31408132"
     },
     {
       "id": "82",
       "nama anak": "Nur Balqish Ahmad Azrai",
-      "ibu": "",
-      "bapa": "Nur Diyana/ Noriman Shah",
+      "ibu": "Nur Diyana",
+      "bapa": "Noriman Shah",
       "kelas": "1B",
       "homeroom": "Papa Vern",
       "tempat tinggal": "Damansara",
       "phone": "012-3043519 / 012-8222839"
-    }
+    },
+    {
+      "id": "83",
+      "nama anak": "Amalia Izzati",
+      "ibu": "Marsila Mahar",
+      "kelas": "1C",
+      "homeroom": "Papa Vern",
+      "tempat tinggal": "Au3, Ulu Kelang",
+      "phone": "0183668461"
+	},
+    {
+      "id": "84",
+      "nama anak": "Ellisa Maisara Binti Mohd Farid",
+      "ibu": "Marhani",
+	  "bapa" : "Mohd Farid",
+      "kelas": "1B",
+      "homeroom": "Mama Atiq",
+      "tempat tinggal": "Balakong Selangor",
+      "phone": "0183884631"
+	}  
   ]
 }
