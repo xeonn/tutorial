@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head th:include="layout :: headerFragment">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Customer Portal</h1>
+        </div>
+        <div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
+            erat lectus, vehicula feugitat</p>
+            <h2>Existing Customers</h2>
+            <div class="well">
+                <b>Enter the intranet: </b><a th:ref="@{/customers}">customers</a>
+            </div>
+        </div>
+        <div id="pagefoot" th:include="layout :: footerFragment">Footer</div> 
+        <!-- container -->
+    </body>
+</html>
