@@ -3,6 +3,14 @@
     <head th:include="layout :: headerFragment">
     </head>
     <body>
+        <script type="text/javascript">
+            var login = function() {
+                $.post("/login", function() {
+                    
+                });
+                return true;
+            }
+        </script>
         <div class="container">
             <h1>Customer Portal</h1>
         </div>
@@ -12,6 +20,9 @@
             <h2>Existing Customers</h2>
             <div class="well">
                 <b>Enter the intranet: </b><a th:href="@{/customers}">customers</a>
+            </div>
+            <div class="container">
+                <button class="btn btn-primary" onClick="login()" >Login</button>
             </div>
         </div>
         <div id="pagefoot" th:include="layout :: footerFragment">Footer</div> 
